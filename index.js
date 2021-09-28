@@ -1,0 +1,1 @@
+const people= require('./information');
